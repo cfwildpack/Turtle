@@ -1,0 +1,8 @@
+{
+  "species": "Green Sea Turtle",
+  "averageWeightKg": 160,
+  "averageLengthCm": 120,
+  "habitat": "Tropical Ocean",
+  "migrationDistanceKm": 2500,
+  "conservationStatus": "Endangered"
+}
